@@ -1,16 +1,18 @@
+# MPLAYER_B_TERMINAL_ORBITRON
 
-# AITerminal Ubuntu Intelligence
+Terminal IA visuel stylisé Orbitron version B — assistant IA multimédia, cockpit WebView, ASCII interactif et QR IA.
 
-Bienvenue sur **AITerminal Ubuntu Intelligence** !
+## 🔷 Détails
+- Organisation : MOHAMED ILYES ZOUBIROU
+- Google Play ID : C03ccq3dq
+- Domaine : mplayer.website
+- Dépôt : github.com/milyes/MPlayer
+- Fichier principal : MPLAYER_B_TERMINAL.html
+- Style visuel : terminal.css
+- QR : qr_mplayer_b.png
 
-## Fonctionnalités :
-- Détecte toutes les commandes disponibles sous Ubuntu.
-- Exécution par sélection ou saisie manuelle.
-- Historique des exécutions.
-- Gestion des commandes personnalisées.
-
-## Utilisation :
-- Cliquez sur **Run** pour lancer l'interface terminal dynamique.
-- Suivez le menu affiché pour utiliser toutes les options disponibles.
-
-Développé pour fonctionner sur Replit.
+## 🧬 Usage
+- WebView cockpit IA mobile
+- Assistant IA pour dev multimédia
+- Intégration dans APK Android
+- Scan mobile avec QR IA
